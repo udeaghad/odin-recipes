@@ -1,0 +1,1 @@
+This is a practice webpage where I demonstrated what I learned on HTML. The aim is to measure the level of knowledge acquired and put them in to practice
